@@ -1,0 +1,42 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#SignUp-Form{
+	display:none;
+}
+
+#box-message{
+
+border:1px solid rgba(255,0,0,1);
+overflow:auto; 
+margin-bottom:10px;	
+}
+
+#box-message #closeB{
+
+font-weight:bold;
+font-family:"Times New Roman", Times, serif;
+cursor:pointer;
+color:#CC3300;
+
+
+}
+
+.error {
+   color: red;
+   font-size: 12px;
+}
+
+#add_err{
+	
+	color: red;
+   font-size: 12px;
+   font-weight:bold;
+   margin-bottom::10px;
+   
+}
